@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-23T11:57:33 IST" name="Default suite" finished-at="2023-09-23T11:57:44 IST" duration-ms="11392">
+    <groups>
+    </groups>
+    <test started-at="2023-09-23T11:57:33 IST" name="Default test" finished-at="2023-09-23T11:57:44 IST" duration-ms="11392">
+      <class name="testNGAnnotation.ActiTimeDataProvider">
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation.ActiTimeDataProvider@2034b64c]" started-at="2023-09-23T11:57:33 IST" name="invalidLoginMethod" data-provider="actiTimeTestData" finished-at="2023-09-23T11:57:36 IST" duration-ms="3145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[     ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation.ActiTimeDataProvider@2034b64c]" started-at="2023-09-23T11:57:36 IST" name="invalidLoginMethod" data-provider="actiTimeTestData" finished-at="2023-09-23T11:57:38 IST" duration-ms="1723" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[    ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation.ActiTimeDataProvider@2034b64c]" started-at="2023-09-23T11:57:38 IST" name="invalidLoginMethod" data-provider="actiTimeTestData" finished-at="2023-09-23T11:57:40 IST" duration-ms="1895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ad_min ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mana_ger]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation.ActiTimeDataProvider@2034b64c]" started-at="2023-09-23T11:57:40 IST" name="invalidLoginMethod" data-provider="actiTimeTestData" finished-at="2023-09-23T11:57:42 IST" duration-ms="2743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation.ActiTimeDataProvider@2034b64c]" started-at="2023-09-23T11:57:42 IST" name="invalidLoginMethod" data-provider="actiTimeTestData" finished-at="2023-09-23T11:57:44 IST" duration-ms="1779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+      </class> <!-- testNGAnnotation.ActiTimeDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
